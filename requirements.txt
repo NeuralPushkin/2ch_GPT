@@ -1,1 +1,4 @@
 dvach.api
+transformers==3.5.0
+trinket
+torch==1.4.0
